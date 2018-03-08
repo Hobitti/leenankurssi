@@ -1,8 +1,0 @@
-etusivun tiedot muutettavissa(aika paikka)
-ilmoittautuminen ja sen hallinta
-määrä
-aluekartta + paikanvarau
-
-turnauksen hallinta nimet, palkkinnot, koko, aika,
-peli
-turnaukseen ilmoittautuminen                                                                                                               
